@@ -1,4 +1,4 @@
-# Simple chatbot using if-else
+
 def chatbot():
     print("ChatBot: Hi! I am a simple chatbot. Type 'bye' to exit.")
     while True:
